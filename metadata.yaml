@@ -1,5 +1,9 @@
-name: astrbot_plugin_quark_search # 这是你的插件的唯一识别名。
-desc: 夸克网盘资源搜索 🌈 一句指令解锁全网宝藏。 # 插件简短描述
-version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: ZhjGo # 作者
-repo: https://github.com/ZhjGo/astrbot_plugin_quark_search.git # 插件的仓库地址
+name: astrbot_plugin_quark_search
+desc: 夸克网盘资源搜索插件 🔍 支持关键词搜索/热门资源/随机资源🌈
+version: v1.0
+author: ZhjGo
+repo: https://github.com/ZhjGo/astrbot_plugin_quark_search.git
+todo:
+  - 接入用户自己的夸克网盘
+  - 支持个人网盘资源搜索
+  - 增加夸克账号配置选项
